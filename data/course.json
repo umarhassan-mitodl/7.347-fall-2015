@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Immunology"
+    ],
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ]
+  ],
+  "legacy_uid": "1760b299-caa6-9aef-2606-19498eec18d2",
+  "instructors": {
+    "content": [
+      "f99682b8-8e7d-e8ba-762a-d2ad9f66d010",
+      "5d82fbf6-cbe8-c982-77e0-a7a84fcddcc7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9180e8d6-6809-7680-76e5-7ebda9802af9",
+    "website": "7-347-living-dangerously-how-the-immune-system-maintains-peace-with-trillions-of-commensal-bacteria-while-preventing-pathogenic-invasions-fall-2015"
+  },
+  "course_title": "Living Dangerously: How the Immune System Maintains Peace with Trillions of Commensal Bacteria while Preventing Pathogenic Invasions",
+  "course_description": "In this course, we will examine how the immune system acts to destroy pathogenic invaders while tolerating colonization by necessary commensal bacteria. As a counterpoint, we will also explore sophisticated strategies that help some bacteria evade our immune system.\n\nThis course is one of many {{% resource_link \"4ec17640-9cf2-4a7f-b622-696f482cb0d1\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.347",
+  "course_image_thumbnail": {
+    "content": "0d572ba4-3ac6-58f1-463f-aaaf0ddd2cfe",
+    "website": "7-347-living-dangerously-how-the-immune-system-maintains-peace-with-trillions-of-commensal-bacteria-while-preventing-pathogenic-invasions-fall-2015"
+  },
+  "learning_resource_types": [],
+  "site_uid": "5662c5b4-b59f-40d9-8118-d511cdedbbba",
+  "site_short_id": "7.347-fall-2015",
+  "site_url_path": "courses/7-347-living-dangerously-how-the-immune-system-maintains-peace-with-trillions-of-commensal-bacteria-while-preventing-pathogenic-invasions-fall-2015",
+  "title": "Course Metadata"
+}
