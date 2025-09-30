@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, format, grading, and the schedule of course topics,
   activities, and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -227,7 +229,7 @@ Dysbiosis and Autoimmune Conditions
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the laboratory of {{% resource_link "fe140f7a-1e1f-4ec2-84e7-e8eefb351ce1" "Eric Alm" %}} at the {{% resource_link "66a5dc83-e647-41ab-8e42-246e2976e6f4" "Broad Institute" %}}, Cambridge, MA
+Field trip to the laboratory of [Eric Alm](https://be.mit.edu/directory/eric-alm) at the [Broad Institute](http://www.broadinstitute.org/), Cambridge, MA
 {{< tdclose >}}
 {{< tdopen >}}
 Written assignment due
