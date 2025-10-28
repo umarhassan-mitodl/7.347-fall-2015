@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides summaries of each of the weekly lecture sessions
   of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -197,7 +195,7 @@ Field Trip
 
 The microorganisms that inhabit our mucosal surfaces are collectively called the microbiota, and their genomes are called the microbiome. The beneficial effects of the microbiota to human health are numerous, varying from synthesis of essential vitamins to prevention of autoimmune diseases. Some individuals suffer from dysbiosis or microbial imbalance, a condition in which increased levels of harmful bacteria and reduced levels of beneficial bacteria predispose to colitis flare-ups and / or to infection by certain opportunistic bacteria, such as _Clostridium difficile_. Infection by these bacteria is a growing health problem in the United Stated, accounting to 29,000 deaths in 2011. Recurrent infections are a major challenge to overcome. Instead of treating this infection with strong antibiotics, some researches have proposed to treat recurrent _C. difficile_ infections by adding the beneficial bacteria back to the microbiota of individuals afflicted by dysbiosis.
 
-[Eric Alm](http://almlab.mit.edu/), MIT Director of the [Center For Microbiome Informatics and Therapeutics](http://imes.mit.edu/initiatives/microbiome/), is heading a research lab at the [Broad Institute](http://www.broadinstitute.org/) focusing on the development of  therapeutics based on synthetic microbial communities and personalized medicine. We will visit his lab and receive a thoughtful introduction into his research including a demo of some techniques that are important for processing stool samples (liquid handling robot, anaerobic chamber, etc).
+{{% resource_link "d655f0f3-c50b-455b-8a74-9214cd9c1d0a" "Eric Alm" %}}, MIT Director of the {{% resource_link "7540ddf6-f467-43a0-b4f7-fb52e85253ba" "Center For Microbiome Informatics and Therapeutics" %}}, is heading a research lab at the {{% resource_link "0ff934d5-16ab-4441-9889-9b06b6c3ffef" "Broad Institute" %}} focusing on the development of  therapeutics based on synthetic microbial communities and personalized medicine. We will visit his lab and receive a thoughtful introduction into his research including a demo of some techniques that are important for processing stool samples (liquid handling robot, anaerobic chamber, etc).
 
 
 {{< tdclose >}}
